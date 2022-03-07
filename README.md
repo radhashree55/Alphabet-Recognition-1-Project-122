@@ -1,1 +1,1 @@
-# Alphabet-Recongnition-1-Project-122
+# Alphabet-Recognition-1-Project-122
